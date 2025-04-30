@@ -56,4 +56,4 @@ Install the dependencies using the provided `requirements.txt` file:
 
 ## Security Note
 
-- **API Keys:** The script includes placeholder API keys with asterisks (e.g., `'AIzaSyD7HbSYVS-Cpqno4Zx8y-*************'`). Replace these with your own keys locally, but do not upload actual keys to a public GitHub repository. Consider using environment variables or a configuration file for better security in production use.
+- **API Keys:** The script includes placeholder API keys with asterisks (e.g., `'AIzaSyD7HbSYVS-Cpqno4Zx8y-*************'`). Replace these with your own keys locally. Consider using environment variables or a configuration file for better security in production use.
